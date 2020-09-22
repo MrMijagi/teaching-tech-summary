@@ -133,8 +133,68 @@ Author also provides an [example](http://teachtogether.tech/en/index.html#s:mode
 
 Concepts: Mental models
 
-![Mental models](img/conceptmap-mental-models.png)
+![Mental models](img/conceptmap-mental-models2.png)
 
 Concepts: Assessment
 
-![Assessment](img/conceptmap-assessment.png)
+![Assessment](img/conceptmap-assessment2.png)
+
+___
+
+## [Expertise and memory](http://teachtogether.tech/en/index.html#s:memory)
+
+This chapter starts from describing who expert is. It gives us this metaphor:
+
+>Imagine for a moment that we store knowledge as a network or graph in which facts are nodes and relationships are arcs. The key difference between experts and competent practitioners is that experts’ mental models are much more densely connected, i.e. they are more likely to know a connection between any two facts.
+
+We can observe specific behavior for experts:
+
+* Experts can often jump directly from a problem to a solution because there actually is a direct link between the two in their mind ([intuition](http://teachtogether.tech/en/index.html#g:intuition)).
+* Densely-connected graphs are also the basis for experts’ [fluid representations](http://teachtogether.tech/en/index.html#g:fluid-representation), i.e. their ability to switch back and forth between different views of a problem.
+* More linkages between facts makes it easier to reason backward from symptoms to causes.
+* Finally, experts are often so familiar with their subject that they can no longer imagine what it’s like to not see the world that way.
+
+The last of these points is called [expert blind spot](http://teachtogether.tech/en/index.html#g:expert-blind-spot).
+
+### [Concept Maps](http://teachtogether.tech/en/index.html#s:memory-concept-maps)
+
+>Our tool of choice for representing someone’s mental model is a [concept map](http://teachtogether.tech/en/index.html#g:concept-map), in which facts are bubbles and connections are labeled connections.
+
+You could see example in previous chapter [review](#review).
+
+>Concept maps can be used in many ways:
+>
+>* Helping teachers figure out what they’re trying to teach.
+>* Aiding communication between lesson designers.
+>* Aiding communication with learners.
+>* For assessment.
+
+There are other ways to represent mental models e.g. Venn diagrams, flowcharts and decision trees. All of these [externalize cognition](http://teachtogether.tech/en/index.html#g:externalized-cognition).
+
+### [Seven Plus or Minus Two](http://teachtogether.tech/en/index.html#s:memory-seven-plus-or-minus)
+
+Human memory can be divided into two layers:
+
+* [long-term](http://teachtogether.tech/en/index.html#g:long-term-memory) (persistent) memory - its capacity is essentially unlimited, but it is slow to access
+* [short-term](http://teachtogether.tech/en/index.html#g:short-term-memory) (working) memory - faster, but smaller
+
+In [1956, Miller, George A.](http://teachtogether.tech/en/index.html#ref-Mill1956) estimated that the average adult's working memory could only hold 7±2 items at a time. 7±2 number is very important because an information to be stored in long-term memory must be first held and rehearsed in short-term memory.
+
+This is why you shouldn't overload learners with information. Also, this is where concept map comes in handy: teacher can pick subsection from it (which fills working memory) and lead to a formative assessment.
+
+![concept map](img/photosynthesis.png)
+
+Using concept maps in lesson design
+
+### [Becoming an Expert](http://teachtogether.tech/en/index.html#s:memory-becoming-expert)
+
+To become an expert it is important to pay attention to what we do and getting feedback from our work so then in response to it we can change our behavior to get cumulatively better. It's called [deliberate](http://teachtogether.tech/en/index.html#g:deliberate-practice) or reflective practice and there are three stages of it:
+
+* Act on feedback from others.
+* Give feedback on other's work.
+* Give feedback to ourselves.
+
+### [Exercises](http://teachtogether.tech/en/index.html#s:memory-exercises)
+
+___
+
