@@ -39,7 +39,7 @@ ___
 
 ___
 
-## <a name="rules"></a>[The Rules](http://teachtogether.tech/en/index.html#the-rules)
+## [The Rules](http://teachtogether.tech/en/index.html#the-rules)
 
 > 1. Be kind: all else is details.
 > 2. Remember that you are not your learners…
@@ -54,7 +54,7 @@ ___
 
 ___
 
-## <a name="intro"></a>[Introduction](http://teachtogether.tech/en/index.html#s:intro)
+## [Introduction](http://teachtogether.tech/en/index.html#s:intro)
 
 This chapter defines book's target group - [end-user teachers](http://teachtogether.tech/en/index.html#s:intro-audience) - people with variety of technical backgrounds who aren't working primarily as teachers and have little or no background in pedagogy.
 
