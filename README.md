@@ -6,16 +6,16 @@ ___
 
 ## Table of contents
 
-* The Rules
-* Introduction
-* Mental Models and Formative Assessment
-* Expertise and Memory
-* Cognitive Architecture
-* Individual Learning
-* A Lesson Design Process
-* Pedagogical Content Knowledge
-* Teaching as a Performance Art
-* In the Classroom
+* [The Rules](#the-rules)
+* [Introduction](#introduction)
+* [Mental Models and Formative Assessment](#mental-models-and-formative-assessment)
+* [Expertise and Memory](#expertise-and-memory)
+* [Cognitive Architecture](#cognitive-architecture)
+* [Individual Learning](#individual-learning)
+* [A Lesson Design Process](#a-lesson-design-process)
+* [Pedagogical Content Knowledge](#pedagogical-content-knowledge)
+* [Teaching as a Performance Art](#teaching-as-a-performance-art)
+* [In the Classroom](#in-the-classroom)
 * Motivation and Demotivation
 * Teaching Online
 * Exercise Types
@@ -39,7 +39,7 @@ ___
 
 ___
 
-## [The Rules](http://teachtogether.tech/en/index.html#the-rules)
+## <a name="rules"></a>[The Rules](http://teachtogether.tech/en/index.html#the-rules)
 
 > 1. Be kind: all else is details.
 > 2. Remember that you are not your learners…
@@ -54,7 +54,7 @@ ___
 
 ___
 
-## [Introduction](http://teachtogether.tech/en/index.html#s:intro)
+## <a name="intro"></a>[Introduction](http://teachtogether.tech/en/index.html#s:intro)
 
 This chapter defines book's target group - [end-user teachers](http://teachtogether.tech/en/index.html#s:intro-audience) - people with variety of technical backgrounds who aren't working primarily as teachers and have little or no background in pedagogy.
 
