@@ -16,26 +16,26 @@ ___
 * [Pedagogical Content Knowledge](#pedagogical-content-knowledge)
 * [Teaching as a Performance Art](#teaching-as-a-performance-art)
 * [In the Classroom](#in-the-classroom)
-* Motivation and Demotivation
-* Teaching Online
-* Exercise Types
-* Building a Community of Practice
-* Outreach
-* Why I Teach
-* License
-* Code of Conduct
-* Our Standards
-* Our Responsibilities
-* Scope
-* Enforcement
-* Attribution
-* Joining Our Community
-* Glossary
-* Meetings, Meetings, Meetings
-* Checklists and Templates
-* Example Concept Maps
-* Chunking Exercise Solution
-* References
+* [Motivation and Demotivation](#motivation-and-demotivation)
+* [Teaching Online](#teaching-online)
+* [Exercise Types](#exercise-types)
+* [Building a Community of Practice](#building-a-community-of-practice)
+* [Outreach](#outreach)
+* [Why I Teach](#why-i-teach)
+* [License](#license)
+* [Code of Conduct](#code-of-conduct)
+* [Our Standards](#out-standards)
+* [Our Responsibilities](#our-responsibilities)
+* [Scope](#scope)
+* [Enforcement](#enforcement)
+* [Attribution](#attribution)
+* [Joining Our Community](#joining-our-community)
+* [Glossary](#glossary)
+* [Meetings, Meetings, Meetings](#meetings,-meetings,-meetings)
+* [Checklists and Templates](#checklists-and-templates)
+* [Example Concept Maps](#example-concept-maps)
+* [Chunking Exercise Solution](#chunking-exercise-solution)
+* [References](#references)
 
 ___
 
