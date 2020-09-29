@@ -41,16 +41,16 @@ ___
 
 ## [The Rules](http://teachtogether.tech/en/index.html#the-rules)
 
-> 1. Be kind: all else is details.
-> 2. Remember that you are not your learners…
-> 3. …that most people would rather fail than change…
-> 4. …and that ninety percent of magic consists of knowing one extra thing.
-> 5. Never teach alone.
-> 6. Never hesitate to sacrifice truth for clarity.
-> 7. Make every mistake a lesson.
-> 8. Remember that no lesson survives first contact with learners…
-> 9. …that every lesson is too short for the teacher and too long for the learner…
-> 10. …and that nobody will be more excited about the lesson than you are.
+1. Be kind: all else is details.
+2. Remember that you are not your learners…
+3. …that most people would rather fail than change…
+4. …and that ninety percent of magic consists of knowing one extra thing.
+5. Never teach alone.
+6. Never hesitate to sacrifice truth for clarity.
+7. Make every mistake a lesson.
+8. Remember that no lesson survives first contact with learners…
+9. …that every lesson is too short for the teacher and too long for the learner…
+10. …and that nobody will be more excited about the lesson than you are.
 
 ___
 
@@ -66,9 +66,9 @@ ___
 
 This chapter introduces progression of cognitive development and simplifies it to three stages:
 
->* [Novices](http://teachtogether.tech/en/index.html#g:novice) - don’t know what they don’t know, i.e. they don’t yet have a usable mental model of the problem domain.
->* [Competent practitioners](http://teachtogether.tech/en/index.html#g:competent-practitioner) - have a mental model that’s adequate for everyday purposes. They can do normal tasks with normal effort under normal circumstances, and have some understanding of the limits to their knowledge (i.e. they know what they don’t know).
->* [Experts](http://teachtogether.tech/en/index.html#g:expert) - have mental models that include exceptions and special cases, which allows them to handle situations that are out of the ordinary.
+* [Novices](http://teachtogether.tech/en/index.html#g:novice) - don’t know what they don’t know, i.e. they don’t yet have a usable mental model of the problem domain.
+* [Competent practitioners](http://teachtogether.tech/en/index.html#g:competent-practitioner) - have a mental model that’s adequate for everyday purposes. They can do normal tasks with normal effort under normal circumstances, and have some understanding of the limits to their knowledge (i.e. they know what they don’t know).
+* [Experts](http://teachtogether.tech/en/index.html#g:expert) - have mental models that include exceptions and special cases, which allows them to handle situations that are out of the ordinary.
 
 It also describes [mental model](http://teachtogether.tech/en/index.html#g:mental-model):
 
@@ -89,9 +89,9 @@ Therefore it's important to determine for which group your lessons will be made.
 
 It is pointed out that students learn the fastest when their misconceptions are being identified and cleared when delivering lessons. These misconceptions fall into three categories:
 
->* Factual errors - like believing that Vancouver is the capital of British Columbia (it’s Victoria). These are usually simple to correct.
->* Broken models - like believing that motion and acceleration must be in the same direction. We can address these by having novices reason through examples where their models give the wrong answer.
->* Fundamental beliefs - such as “the world is only a few thousand years old”. These errors are often deeply connected to the learner’s social identity, so they resist evidence and rationalize contradictions.
+* Factual errors - like believing that Vancouver is the capital of British Columbia (it’s Victoria). These are usually simple to correct.
+* Broken models - like believing that motion and acceleration must be in the same direction. We can address these by having novices reason through examples where their models give the wrong answer.
+* Fundamental beliefs - such as “the world is only a few thousand years old”. These errors are often deeply connected to the learner’s social identity, so they resist evidence and rationalize contradictions.
 
 This is where [formative assessment](http://teachtogether.tech/en/index.html#g:formative-assessment) comes into play. It takes place during a lesson and it gives feedback for both teacher and learner. It shouldn't break the flow of lesson while having unambiguous correct answer.
 
@@ -162,12 +162,12 @@ The last of these points is called [expert blind spot](http://teachtogether.tech
 
 You could see example in previous chapter [review](#review).
 
->Concept maps can be used in many ways:
->
->* Helping teachers figure out what they’re trying to teach.
->* Aiding communication between lesson designers.
->* Aiding communication with learners.
->* For assessment.
+Concept maps can be used in many ways:
+
+* Helping teachers figure out what they’re trying to teach.
+* Aiding communication between lesson designers.
+* Aiding communication with learners.
+* For assessment.
 
 There are other ways to represent mental models e.g. Venn diagrams, flowcharts and decision trees. All of these [externalize cognition](http://teachtogether.tech/en/index.html#g:externalized-cognition).
 
@@ -183,8 +183,6 @@ In [1956, Miller, George A.](http://teachtogether.tech/en/index.html#ref-Mill195
 This is why you shouldn't overload learners with information. Also, this is where concept map comes in handy: teacher can pick subsection from it (which fills working memory) and lead to a formative assessment.
 
 ![concept map](img/photosynthesis.png)
-
-Using concept maps in lesson design
 
 ### [Becoming an Expert](http://teachtogether.tech/en/index.html#s:memory-becoming-expert)
 
@@ -226,7 +224,7 @@ It is more effective to teach by showing how to do things step by step than givi
 
 [Parsons problem](http://teachtogether.tech/en/index.html#g:parsons-problem) is an assessment technique which does that. When programming, instead of writing entire program from scratch, give learners lines of code which are enough to solve to problem, but need to be put in order. This makes them focus on control flow and data dependencies without being distracted by variable naming, etc.
 
->Another type of exercise that can be explained in terms of cognitive load is to give learners a series of [faded examples](http://teachtogether.tech/en/index.html#g:faded-example). The first example in a series presents a complete use of a particular problem-solving strategy. The next problem is of the same type, but has some gaps for the learner to fill in. Each successive problem gives the learner less [scaffolding](http://teachtogether.tech/en/index.html#g:scaffolding), until they are asked to solve a complete problem from scratch.
+Another type of exercise that can be explained in terms of cognitive load is to give learners a series of [faded examples](http://teachtogether.tech/en/index.html#g:faded-example). The first example in a series presents a complete use of a particular problem-solving strategy. The next problem is of the same type, but has some gaps for the learner to fill in. Each successive problem gives the learner less [scaffolding](http://teachtogether.tech/en/index.html#g:scaffolding), until they are asked to solve a complete problem from scratch.
 
 For example starting from complete solution in python:
 
@@ -277,7 +275,7 @@ Faded examples work because they introduce the problem-solving strategy piece by
 2. Get the value to be added to the result from the loop variable.
 3. Update the result with that value.
 
->Labeling subgoals works because grouping related steps into named chunks helps learners distinguish what’s generic from what is specific to the problem at hand. It also helps them build a mental model of that kind of problem so that they can solve other problems of that kind, and gives them a natural opportunity for self-explanation.
+Labeling subgoals works because grouping related steps into named chunks helps learners distinguish what’s generic from what is specific to the problem at hand. It also helps them build a mental model of that kind of problem so that they can solve other problems of that kind, and gives them a natural opportunity for self-explanation.
 
 ### [Other Models of Learning](http://teachtogether.tech/en/index.html#s:architecture-theory)
 
@@ -477,7 +475,7 @@ Every teacher needs three things:
 * [**general pedagogical knowledge**](http://teachtogether.tech/en/index.html#g:general-pedagogical-knowledge) such as an understanding of the psychology of learning; and
 * [**pedagogical content knowledge**](http://teachtogether.tech/en/index.html#g:pedagogical-content-knowledge) (PCK), which is the domain-specific knowledge of how to teach a particular concept to a particular audience. In computing, PCK includes things like what examples to use when teaching how parameters are passed to a function or what misconceptions about nesting HTML tags are most common.
 
->As with all research, some caution is required when interpreting results:
+>As with all research shown below, some caution is required when interpreting results:
 >
 >* Theories change as more data becomes available.
 >* Most of these studies’ subjects are WEIRD:
@@ -515,7 +513,7 @@ grade = 80
 print(total)
 ```
 
-After this code, some incorrectly believe that the value of `total` will be 90 rather than 75. Other misconceptions inclue:
+After this code, some incorrectly believe that the value of `total` will be 90 rather than 75. Other misconceptions include:
 
 * A variable holds the history of the values it has been assigned, i.e. it remembers what its value used to be.
 * Two objects with the same value for a `name` or `id` attribute are guaranteed to be the same object.
@@ -530,7 +528,6 @@ After this code, some incorrectly believe that the value of `total` will be 90 r
 ### [How Do Novices Program?](http://teachtogether.tech/en/index.html#s:pck-programming)
 
 Recent work has shown the effectiveness of teaching four distinct skills in a specific order:
-
 
 ||semantics of code|templates related to goals
 :---|:---|:---
@@ -565,7 +562,7 @@ But what happens after blocks?[[Chen2018](http://teachtogether.tech/en/index.htm
 
 #### Object-Oriented Programming
 
-Introducing objects early has a few challenges.[[Mill2016b](http://teachtogether.tech/en/index.html#ref-Mill2016b)] found that most novices using Python struggled to understand self (which refers to the current object): they omitted it in method definitions, failed to use it when referencing object attributes, or both.[[Rago2017](http://teachtogether.tech/en/index.html#ref-Rago2017)] found something similar in high school students, and also found that high school teachers often weren’t clear on the concept either. On balance, we recommend that teachers start with functions rather than objects, i.e. that learners not be taught how to define classes until they understand basic control structures and data types.
+Introducing objects early has a few challenges.[[Mill2016b](http://teachtogether.tech/en/index.html#ref-Mill2016b)] found that most novices using Python struggled to understand `self` (which refers to the current object): they omitted it in method definitions, failed to use it when referencing object attributes, or both.[[Rago2017](http://teachtogether.tech/en/index.html#ref-Rago2017)] found something similar in high school students, and also found that high school teachers often weren’t clear on the concept either. On balance, we recommend that teachers start with functions rather than objects, i.e. that learners not be taught how to define classes until they understand basic control structures and data types.
 
 #### Type Declarations
 
@@ -660,7 +657,7 @@ You may have customized your environment with a fancy Unix shell prompt, a custo
 
 #### Use the Screen Wisely
 
-You will usually need to enlarge your font considerably for people to read it from the back of the room, which means you canTo manage this, maximize the window you are using to teach and then ask everyone to give you a thumbs-up or thumbs-down on its readability. Use a black font on a lightly-tinted background rather than a light font on a dark background — the light tint will glare less than pure white. put much less on the screen than you’re used to.
+You will usually need to enlarge your font considerably for people to read it from the back of the room. To manage this, maximize the window you are using to teach and then ask everyone to give you a thumbs-up or thumbs-down on its readability. Use a black font on a lightly-tinted background rather than a light font on a dark background — the light tint will glare less than pure white. put much less on the screen than you’re used to.
 
 If you can get a second projector and screen, use it: the extra real estate will allow you to display your code on one side and its output or behavior on the other. If second screen requires its own computer, ask a helper to control it rather than hopping back and forth between two keyboards.
 
@@ -938,7 +935,7 @@ There are three main demotivators for adult learners:
 
 In extreme situations, learners may develop [learned helplessness](http://teachtogether.tech/en/index.html#g:learned-helplessness): when repeatedly subjected to negative feedback in a situation that they can’t change, they may learn not to even try to change the things they could.
 
->One of the fastest and surest ways to demotivate learners is to use language that suggests that some people are natural programmers and others aren’t. Guzdial has called this [the biggest myth about teaching computer science](https://cacm.acm.org/blogs/blog-cacm/189498-top-10-myths-about-teaching-computer-science/fulltext), and[[Pati2016](http://teachtogether.tech/en/index.html#ref-Pati2016)] backed this up by showing that people see evidence for a “geek gene” where none exists.
+>One of the fastest and surest ways to demotivate learners is to use language that suggests that some people are natural programmers and others aren’t. Guzdial has called this [the biggest myth about teaching computer science](https://cacm.acm.org/blogs/blog-cacm/189498-top-10-myths-about-teaching-computer-science/fulltext), and [[Pati2016](http://teachtogether.tech/en/index.html#ref-Pati2016)] backed this up by showing that people see evidence for a “geek gene” where none exists.
 
 Here are a few other specific things that will demotivate your learners:
 
@@ -1044,7 +1041,7 @@ If you want your learners to thrive, you need to create a community. Hundreds of
 
 ### [Video](http://teachtogether.tech/en/index.html#s:online-video)
 
-If you are teaching programming, you may use screencasts instead of slides, since they offer some of the same advantages as live coding.[Chen2009] offers useful tips for creating and critiquing screencasts and other videos; reproduces the patterns that paper presents and the relationships between them.
+If you are teaching programming, you may use screencasts instead of slides, since they offer some of the same advantages as live coding.[[Chen2009](http://teachtogether.tech/en/index.html#ref-Chen2009)] offers useful tips for creating and critiquing screencasts and other videos; reproduces the patterns that paper presents and the relationships between them.
 
 ![Patterns for screencasting](img/screencast.png)
 
@@ -1100,7 +1097,7 @@ This chapter starts by describing several kinds of exercises you can use to chec
 
 Multiple choice questions (MCQs) are most effective when the wrong answers probe for specific misconceptions. For example:
 
->In what order do operations occur when the computer evaluates the expression price = addTaxes(cost - discount)?
+>In what order do operations occur when the computer evaluates the expression `price = addTaxes(cost - discount)`?
 >
 >1. subtraction, function call, assignment
 >2. function call, subtraction, assignment
@@ -1142,7 +1139,9 @@ Fill in the blanks is a refinement of C&R in which the learner is given some sta
 >Fill in the blanks so that the code below prints the string `’hat’`.
 >
 >`text = 'all that it is'`
+>
 >`slice = text[____:____]`
+>
 >`print(slice)`
 
 #### Parsons Problem
@@ -1152,8 +1151,11 @@ Parsons Problems also avoid the “blank screen of terror” problem while allow
 >Rearrange and indent these lines to sum the positive values in a list. (You will need to add colons in appropriate places as well.)
 >
 >`total = 0`
+>
 >`if v > 0`
+>
 >`total += v`
+>
 >`for v in values`
 
 ### [Tracing](http://teachtogether.tech/en/index.html#s:exercises-tracing)
@@ -1165,11 +1167,17 @@ Tracing execution is the inverse of a Parsons Problem: given a few lines of code
 >In what order are the labeled lines in this block of code executed?
 >
 >`A)     vals = [-1, 0, 1]`
+>
 >`B)     inverse_sum = 0`
+>
 >`       try:`
+>
 >`           for v in vals:`
+>
 >`C)             inverse_sum += 1/v`
+>
 >`       except:`
+>
 >`D)         pass`
 
 #### Tracing Values
@@ -1179,8 +1187,11 @@ Tracing values is similar to tracing execution, but instead of spelling out the 
 >What values do left and right take on as this program executes?
 >
 >`A) left = 23`
+>
 >`B) right = 6`
+>
 >`C) while right:`
+>
 >`D)     left, right = right, left % right`
 
 One way to implement this is to give the learner a table whose columns are labeled with variable names and whose rows are labeled with line numbers, and ask them to fill in the values taken on by the variables on those lines.
@@ -1192,8 +1203,11 @@ You can also require learners to trace code backwards to figure out what the inp
 >Fill in the missing number in values that caused this function to crash.
 >
 >`values = [ [1.0, -0.5], [3.0, 1.5], [2.5, ___] ]`
+>
 >`runningTotal = 0.0`
+>
 >`for (reading, scaling) in values:`
+>
 >`    runningTotal += reading / scaling`
 
 #### Minimal Fix
@@ -1203,11 +1217,17 @@ Minimal fix exercises also help learners develop debugging skills. Given a few l
 >This function is supposed to test whether a number lies within a range. Make one small change so that it actually does so.
 >
 >`def inside(point, lower, higher):`
+>
 >`    if (point <= lower):`
+>
 >`        return false`
+>
 >`    elif (point <= higher):`
+>
 >`        return false`
+>
 >`    else:`
+>
 >`        return true`
 
 #### Theme and Variations
@@ -1215,11 +1235,17 @@ Minimal fix exercises also help learners develop debugging skills. Given a few l
 >Change the inner loop in the function below so that it fills the upper left triangle of an image with a specified color.
 >
 >`function fillTriangle(picture, color) is`
+>
 >`    for x := 1 to picture.width do`
+>
 >`        for y := 1 to picture.height do`
+>
 >`            picture[x, y] = color`
+>
 >`        end`
+>
 >`    end`
+>
 >`end`
 
 #### Refactoring
@@ -1229,8 +1255,11 @@ Refactoring exercises are the complement of theme and variation exercises: given
 >Write a single list comprehension that has the same effect as this loop.
 >
 >`result = []`
+>
 >`for v in values:`
+>
 >`    if len(v) > threshold:`
+>
 >`        result.append(v)`
 
 ### [Diagrams](http://teachtogether.tech/en/index.html#s:exercises-diagrams)
