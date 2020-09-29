@@ -1138,11 +1138,11 @@ Fill in the blanks is a refinement of C&R in which the learner is given some sta
 
 >Fill in the blanks so that the code below prints the string `’hat’`.
 >
->`text = 'all that it is'`
->
->`slice = text[____:____]`
->
->`print(slice)`
+>```python
+>text = 'all that it is'
+>slice = text[____:____]
+>print(slice)
+>```
 
 #### Parsons Problem
 
