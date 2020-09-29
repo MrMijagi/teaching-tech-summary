@@ -1150,13 +1150,12 @@ Parsons Problems also avoid the “blank screen of terror” problem while allow
 
 >Rearrange and indent these lines to sum the positive values in a list. (You will need to add colons in appropriate places as well.)
 >
->`total = 0`
->
->`if v > 0`
->
->`total += v`
->
->`for v in values`
+>```python
+>total = 0
+>if v > 0
+>total += v
+>for v in values
+>```
 
 ### [Tracing](http://teachtogether.tech/en/index.html#s:exercises-tracing)
 
@@ -1166,19 +1165,15 @@ Tracing execution is the inverse of a Parsons Problem: given a few lines of code
 
 >In what order are the labeled lines in this block of code executed?
 >
->`A)     vals = [-1, 0, 1]`
->
->`B)     inverse_sum = 0`
->
->`       try:`
->
->`           for v in vals:`
->
->`C)             inverse_sum += 1/v`
->
->`       except:`
->
->`D)         pass`
+>```python
+>A)     vals = [-1, 0, 1]
+>B)     inverse_sum = 0
+>       try:
+>           for v in vals:
+>C)             inverse_sum += 1/v
+>       except:
+>D)         pass
+>```
 
 #### Tracing Values
 
@@ -1186,13 +1181,12 @@ Tracing values is similar to tracing execution, but instead of spelling out the 
 
 >What values do left and right take on as this program executes?
 >
->`A) left = 23`
->
->`B) right = 6`
->
->`C) while right:`
->
->`D)     left, right = right, left % right`
+>```python
+>A) left = 23
+>B) right = 6
+>C) while right:
+>D)     left, right = right, left % right
+>```
 
 One way to implement this is to give the learner a table whose columns are labeled with variable names and whose rows are labeled with line numbers, and ask them to fill in the values taken on by the variables on those lines.
 
@@ -1202,13 +1196,12 @@ You can also require learners to trace code backwards to figure out what the inp
 
 >Fill in the missing number in values that caused this function to crash.
 >
->`values = [ [1.0, -0.5], [3.0, 1.5], [2.5, ___] ]`
->
->`runningTotal = 0.0`
->
->`for (reading, scaling) in values:`
->
->`    runningTotal += reading / scaling`
+>```python
+>values = [ [1.0, -0.5], [3.0, 1.5], [2.5, ___] ]
+>runningTotal = 0.0
+>for (reading, scaling) in values:
+>    runningTotal += reading / scaling
+>```
 
 #### Minimal Fix
 
@@ -1216,37 +1209,29 @@ Minimal fix exercises also help learners develop debugging skills. Given a few l
 
 >This function is supposed to test whether a number lies within a range. Make one small change so that it actually does so.
 >
->`def inside(point, lower, higher):`
->
->`    if (point <= lower):`
->
->`        return false`
->
->`    elif (point <= higher):`
->
->`        return false`
->
->`    else:`
->
->`        return true`
+>```python
+>def inside(point, lower, higher):
+>    if (point <= lower):
+>        return false
+>    elif (point <= higher):
+>        return false
+>    else:
+>        return true
+>```
 
 #### Theme and Variations
 
 >Change the inner loop in the function below so that it fills the upper left triangle of an image with a specified color.
 >
->`function fillTriangle(picture, color) is`
->
->`    for x := 1 to picture.width do`
->
->`        for y := 1 to picture.height do`
->
->`            picture[x, y] = color`
->
->`        end`
->
->`    end`
->
->`end`
+>```python
+>function fillTriangle(picture, color) is
+>    for x := 1 to picture.width do
+>        for y := 1 to picture.height do
+>            picture[x, y] = color
+>        end
+>    end
+>end
+>```
 
 #### Refactoring
 
@@ -1254,13 +1239,12 @@ Refactoring exercises are the complement of theme and variation exercises: given
 
 >Write a single list comprehension that has the same effect as this loop.
 >
->`result = []`
->
->`for v in values:`
->
->`    if len(v) > threshold:`
->
->`        result.append(v)`
+>```python
+>result = []
+>for v in values:
+>    if len(v) > threshold:
+>        result.append(v)
+>```
 
 ### [Diagrams](http://teachtogether.tech/en/index.html#s:exercises-diagrams)
 
